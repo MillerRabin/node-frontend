@@ -1,0 +1,24 @@
+{
+  "name": "node-frontend",
+  "version": "1.0.0",
+  "description": "Frontend part of Intention Storage Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillerRabin/node-frontend.git"
+  },
+  "keywords": [
+    "intention",
+    "storage",
+    "node"
+  ],
+  "author": "millerrabin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MillerRabin/node-frontend/issues"
+  },
+  "homepage": "https://github.com/MillerRabin/node-frontend#readme"
+}
